@@ -12,7 +12,7 @@ versions:
   ghes: '*'
   ghae: '*'
   ghec: '*'
-topics:
+topics:l
   - Repositories
 shortTitle: View releases & tags
 ---
